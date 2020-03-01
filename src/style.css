@@ -3,4 +3,5 @@ body {
 }
 #canvas {
   background-color: #aaa;
+  cursor: pointer;
 }
