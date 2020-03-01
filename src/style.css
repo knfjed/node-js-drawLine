@@ -1,7 +1,13 @@
 body {
   margin: 0;
+  position: relative;
 }
 #canvas {
   background-color: #aaa;
   cursor: pointer;
+}
+#btn {
+  position: absolute;
+  top: 10px;
+  left: 10px;
 }
