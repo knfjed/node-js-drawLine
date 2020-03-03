@@ -1,0 +1,14 @@
+{
+  "name": "js-drawline",
+  "version": "1.0.0",
+  "description": "HTML,CSS,JavaScript,Node.js を使ってブラウザの画面上に線を描画するアプリ。",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
